@@ -1,0 +1,6 @@
+def_lang=en
+def_timeout=0.1
+def_encode=utf-8
+def_baudrate=115200
+def_theme=blue
+
