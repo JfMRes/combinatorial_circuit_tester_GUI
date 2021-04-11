@@ -10,7 +10,7 @@ from docs.init import *
 
 
 list_ports=[]
-#timingDiagram.showDiagram("Y:\Universidad\TFG\CodigoTFG\prueba.csv",5)
+
 
 ser=serial.Serial(
     baudrate=def_baudrate,
