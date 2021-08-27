@@ -1,4 +1,6 @@
-# combinatorial_circuit_tester
+# Combinational circuit tester
+
+Automatic tests and debug mode into real, digital, and combinatorial circuits.
   <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-release-plugin</artifactId>
