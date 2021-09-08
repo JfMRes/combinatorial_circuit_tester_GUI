@@ -9,14 +9,15 @@ Automatic tests and debug mode into real, digital, and combinatorial circuits.
 
 - Clone this repo:
 ```bash
-git clone https://github.com/JfMRes/combinatorial_circuit_tester
-cd CAMBIAR
+git clone https://github.com/JfMRes/combinatorial_circuit_tester_GUI
+cd combinatorial_circuit_tester_GUI
 ```
 
 - Install libraries
 
 ```bash
 pip install -r requirements.txt
+
 ```
 
 
