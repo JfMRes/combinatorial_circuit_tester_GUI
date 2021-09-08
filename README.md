@@ -35,7 +35,9 @@ python3 main.py
 ####      Table test.
 ####      Digital timeline.
 
+### ·Debug mode:
+ 
+####      Sweep mode qith breakpoints.
+####      Bits manipulation.
+####      Select combination, navigate, etc.
 
--
-
-## 
