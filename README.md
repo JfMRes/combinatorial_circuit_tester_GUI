@@ -29,13 +29,13 @@ python3 main.py
 
 ## Features
 
-### ·Automatic mode:
+### Automatic mode:
  
 - Test all combinations.
 - Table test.
 - Digital timeline.
 
-### ·Debug mode:
+### Debug mode:
 
 - Bits manipulation.
 - Select combination, navigate, etc.
