@@ -5,7 +5,7 @@ Automatic tests and debug mode into real, digital, and combinatorial circuits. U
 [Python](https://https://www.python.org/): Version 3.9 
 [pip](https://pip.pypa.io/): Version 21.2
 
-## Instalation
+## Install
 
 - Clone this repo:
 ```bash
@@ -19,7 +19,23 @@ cd combinatorial_circuit_tester_GUI
 pip install -r requirements.txt
 
 ```
+- Run
+```bash
+python3 main.py
+
+```
 
 
 
-## Usage
+## Features
+
+### ·Automatic mode:
+ 
+####      Test all combinations.
+####      Table test.
+####      Digital timeline.
+
+
+-
+
+## 
