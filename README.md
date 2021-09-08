@@ -31,13 +31,12 @@ python3 main.py
 
 ### ·Automatic mode:
  
-####      Test all combinations.
-####      Table test.
-####      Digital timeline.
+- Test all combinations.
+- Table test.
+- Digital timeline.
 
 ### ·Debug mode:
- 
-####      Sweep mode qith breakpoints.
-####      Bits manipulation.
-####      Select combination, navigate, etc.
+
+- Bits manipulation.
+- Select combination, navigate, etc.
 
