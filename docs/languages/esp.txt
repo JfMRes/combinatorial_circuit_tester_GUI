@@ -1,0 +1,17 @@
+t_error_path=-Sin archivo seleccionado
+t_error_noinput=-Sin bits de entrada seleccionados
+t_error_output=-Sin bits de salida seleccionados
+t_error_toomanyout=Sin uso
+t_error_toomanyin=Sin uso
+t_error_noconexion=-Sin conexion
+t_head_main=Principal
+t_head_debug=Modo tester
+t_label_input_pins=Num bits entrada
+t_label_output_pins=Num bits salida
+t_label_file_path=Selecciona archivo
+t_label_time_step=tiempo paso(ms):
+t_button_start=Inicio test
+t_button_diagram=Cronograma y tabla de verdad
+t_button_debug=Modo tester
+t_button_connect=Conectar
+t_error_no_succes_connection=No se pudo lograr la conexion
