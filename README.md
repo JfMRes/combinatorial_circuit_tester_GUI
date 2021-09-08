@@ -1,6 +1,6 @@
 # Combinational circuit tester
 
-Automatic tests and debug mode into real, digital, and combinatorial circuits.
+Automatic tests and debug mode into real, digital, and combinatorial circuits. Using Arduino as hardware interface.
 
 [Python](https://https://www.python.org/): Version 3.9 
 [pip](https://pip.pypa.io/): Version 21.2
