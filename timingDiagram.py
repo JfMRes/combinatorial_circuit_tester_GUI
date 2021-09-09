@@ -117,7 +117,4 @@ def showDiagram(path_in,salidas):
         img.show()
         plt.show()
         
-        
 
-
-#showDiagram('Practica1.csv',8)
