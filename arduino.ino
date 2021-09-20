@@ -28,7 +28,7 @@ void loop() {
     digitalWrite(s5, BIT(numero, 5));
     digitalWrite(s6, BIT(numero, 6));
     digitalWrite(s7, BIT(numero, 7));
-
+    delay(1);
    //Lectura de la salida
     numero = (int)digitalRead(b0) * pow(2, 0) + (int)digitalRead(b1) * pow(2, 1) + (int)digitalRead(b2) * pow(2, 2) + (int)digitalRead(b3) * pow(2, 3) + (int)digitalRead(b4) * pow(2, 4) + (int)digitalRead(b5) * pow(2, 5) + (int)digitalRead(b6)*pow(2,6)+ (int)digitalRead(b7)*pow(2,7);
     Serial.write(numero);
